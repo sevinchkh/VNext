@@ -1,0 +1,9 @@
+Deep learning 
+
+- Cypress locators 
+id - tagname#idname
+classname - .classname 
+tagname.classname
+tagname[attribute = value]  {example: input[type = 'search']}
+
+From parent to child {Example = form input}
